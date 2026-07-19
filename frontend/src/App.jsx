@@ -32,7 +32,6 @@ function App() {
   "Contigo, todos los días son especiales.",
   "Te elegiría a ti en cien vidas y en cien mundos distintos.",
   "Haces que mi mundo sea más bonito solo con existir.",
-  "El 4 de junio fue el mejor inicio de nuestra historia.",
   "No hay instante en el que no piense en ti.",
   "Mi parte favorita del día es cuando estoy contigo.",
   "Eres la calma que nunca supe que necesitaba.",
